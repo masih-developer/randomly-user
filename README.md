@@ -4,23 +4,18 @@
 
 #### by https://randomuser.me/
 
----
-
 ## Technologies
 
 -   html
 -   css (pure)
 -   js (use fetch API)
 
----
-
 ## Usage
 
 #### You can receive information from people around the world randomly every time you refresh the page.
 
----
-
 ## live Demo
+
 https://masih-developer.github.io/randomly-user/
 
 ## Author🧑‍💻
