@@ -20,6 +20,9 @@
 
 ---
 
+## live Demo
+https://masih-developer.github.io/randomly-user/
+
 ## Author🧑‍💻
 
 ✅[masih-developer](https://github.com/masih-developer)
